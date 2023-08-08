@@ -1,0 +1,29 @@
+img{
+    width: 400px !important;
+    height: 400px !important;
+    margin: 45px 0;
+    border-radius: 20px;
+} 
+img:hover{
+    box-shadow: 5px 5px 10px 2px black;
+    transition: all 1.2s;
+}   
+.img-2{
+    background-position: center;
+    width: 200px !important;
+    object-fit: cover;
+    
+}
+.btn{
+    position: absolute;
+    top: 20%;
+    margin: 10px 0;
+    margin-left: 7%;
+}
+.img-1 {
+    width: 300px ;
+    height: 100px ;
+    display: block;
+    margin: 10px 0;
+    
+}
